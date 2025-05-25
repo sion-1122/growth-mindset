@@ -1,0 +1,13 @@
+[project]
+name = "growth-mindset"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "bcrypt>=4.3.0",
+    "matplotlib>=3.10.1",
+    "streamlit",
+    "pyjwt>=2.8.0",
+    "streamlit-cookies-controller>=0.0.4",
+]
